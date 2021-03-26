@@ -1,8 +1,13 @@
 # Build Your Own Adventure (Python)
 
+
+## Overview
+In this deliverable, we'll be building our own adventure to practice with control flow in python.
+
 ## Getting Started
 
-- Fork and Clone
+- `Fork` and `clone` this repository
+
 
 ## Deliverables
 
@@ -20,3 +25,18 @@ Using if/elif/else, create an adventure game that a user can play. You should be
 - `input()` is a useful python method that accepts terminal input.
 - `int()` is useful to convert an input to an integer.
 - `str()` is useful to convert an input to a string.
+
+___
+## Requirements
+
+
+## Bonus
+
+
+## Sumission Guidelines
+Submit a pull request utilizing the [PR Template](https://github.com/SEI-R-1-25/template_pull_request)
+
+## Resources
+- [Intro to Python Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_intro)
+- [Python Functions Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_functions)
+- [Python Control Flow Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_control_flow)
