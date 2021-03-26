@@ -1,5 +1,6 @@
 # Build Your Own Adventure (Python)
 
+![](https://wallhere.com/en/wallpaper/623308)
 
 ## Overview
 In this deliverable, we'll be building our own adventure to practice with control flow in python.
@@ -19,7 +20,7 @@ Build your own cli adventure.
 
 Test your file by `python3 main.py`.
 
-Using if/elif/else, create an adventure game that a user can play. You should be able to accept a user input from the terminal and a user should be able to choose different paths.
+Using if/elif/else, create an adventure game that a user can play. You should be able to accept a user input from the terminal and a user should be able to choose different paths. Be creative and have fun with it!
 
 - Must have a minimum of 4 paths a user can take and 7 end scenarios.
 - Must have a play again option, maybe have a play game function?
@@ -32,7 +33,7 @@ Using if/elif/else, create an adventure game that a user can play. You should be
 
 ___
 ## Requirements
-- Must have a minimum of 4 paths a user can take and 7 end scenarios.
+- Must have a minimum of 4 choices a user can take in one game and 7 end scenarios.
 - Must have a play again option
 
 ## Sumission Guidelines
