@@ -1,6 +1,6 @@
 # Build Your Own Adventure (Python)
 
-![](https://wallhere.com/en/wallpaper/623308)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.wallhere.com%2Fphoto%2Fmountains-digital-art-fantasy-art-pixel-art-castle-wilderness-Alps-Terrain-mountain-screenshot-computer-wallpaper-mountainous-landforms-geological-phenomenon-mountain-range-extreme-sport-623308.jpg&f=1&nofb=1)
 
 ## Overview
 In this deliverable, we'll be building our own adventure to practice with control flow in python.
