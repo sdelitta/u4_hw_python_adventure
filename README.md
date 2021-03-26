@@ -8,6 +8,10 @@ In this deliverable, we'll be building our own adventure to practice with contro
 
 - `Fork` and `clone` this repository
 
+## What You'll Be Building
+Here is a diagram of how you might build your control flow adventure
+
+![](controlflow.png)
 
 ## Deliverables
 
@@ -17,7 +21,7 @@ Test your file by `python3 main.py`.
 
 Using if/elif/else, create an adventure game that a user can play. You should be able to accept a user input from the terminal and a user should be able to choose different paths.
 
-- Must have a minimum of 4 paths a user can take.
+- Must have a minimum of 4 paths a user can take and 7 end scenarios.
 - Must have a play again option, maybe have a play game function?
 
 ## Helpful Hints
@@ -28,10 +32,8 @@ Using if/elif/else, create an adventure game that a user can play. You should be
 
 ___
 ## Requirements
-
-
-## Bonus
-
+- Must have a minimum of 4 paths a user can take and 7 end scenarios.
+- Must have a play again option
 
 ## Sumission Guidelines
 Submit a pull request utilizing the [PR Template](https://github.com/SEI-R-1-25/template_pull_request)
