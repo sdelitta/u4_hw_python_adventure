@@ -37,9 +37,9 @@ ___
 - Must have a play again option
 
 ## Sumission Guidelines
-Submit a pull request utilizing the [PR Template](https://github.com/SEI-R-1-25/template_pull_request)
+Submit a pull request utilizing the [PR Template](https://github.com/SEI-R-4-26/template_pull_request)
 
 ## Resources
-- [Intro to Python Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_intro)
-- [Python Functions Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_functions)
-- [Python Control Flow Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_control_flow)
+- [Intro to Python Lesson](https://github.com/SEI-R-4-26/u4_lesson_python_intro)
+- [Python Functions Lesson](https://github.com/SEI-R-4-26/u4_lesson_python_functions)
+- [Python Control Flow Lesson](https://github.com/SEI-R-4-26/u4_lesson_python_control_flow)
