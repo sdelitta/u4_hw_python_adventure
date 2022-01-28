@@ -33,5 +33,5 @@ ___
 - Must have a minimum of 4 paths a user can take in the game and 7 or more end scenarios.
 - Must have a play again option
 
-## Sumission Guidelines
+## Submission Guidelines
 Submit a pull request utilizing the [PR Template](https://github.com/SEI-R-7-26/template_pull_request)
